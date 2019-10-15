@@ -1,4 +1,4 @@
-Organization/Person Name,Number of Investments,Location,Exit Date,Categories,Last Funding Date,Last Funding Amount Currency (in USD),Last Funding Type,Liquidity Event Score,Funding Date Score,Total Score,Rank
+investor_name,Number of Investments,Location,Exit Date,Categories,Last Funding Date,Last Funding Amount Currency (in USD),Last Funding Type,Liquidity Event Score,Funding Date Score,Total Score,Rank
 University Hospitals,2,"Cleveland, Ohio, United States",,Health Care,10/11/2019,,Grant,0,362,362,358
 Sorrento Therapeutics,3,"San Diego, California, United States",1/11/2010,"Biotechnology, Health Care, Medical",10/9/2019,25000000,Post-IPO Equity,0,360,25000360,125
 TerrAscend,,"Mississauga, Ontario, Canada",5/4/2017,"Cannabis, Clinical Trials, Health Care, Medical, Pharmaceutical",10/2/2019,10000000,Post-IPO Equity,0,353,10000353,186
